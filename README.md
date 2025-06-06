@@ -20,7 +20,7 @@ Wireshark | GNS3 | Visual Studio Code | Figma
 ### 📫 Contact Me:
 
 ✉️ a.parvardeh73@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/amirhossein73)
+
 
 <p align="center">
 Thank you for visiting my profile! 🙏  
