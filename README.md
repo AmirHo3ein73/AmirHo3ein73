@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">سلام! من امیرحسین هستم 👋</h1>
 
-<!--
-**AmirHo3ein73/AmirHo3ein73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎯 دانشجوی رشته <strong>فناوری اطلاعات (IT)</strong><br>
+  🚀 علاقه‌مند به <strong>شبکه، امنیت اطلاعات و لینوکس</strong><br>
+  💻 در مسیر تبدیل شدن به یک <strong>متخصص حرفه‌ای زیرساخت شبکه</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 مهارت‌ها و ابزارها:
+
+💡 Network Basics | MikroTik | Cisco | TCP/IP | OSI  
+⚙️ Linux (Debian/Ubuntu) | Windows Server  
+🔐 Security Concepts | Proxy ARP | NAT | Firewall  
+🌐 HTML/CSS | Markdown | YAML | Git/GitHub  
+🛠️ Tools: Wireshark | GNS3 | Visual Studio Code | Figma  
+
+---
+
+### 📈 آمار گیت‌هاب من:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" />
+</p>
+
+---
+
+### 📫 ارتباط با من:
+- ✉️ ایمیل: a.parvardeh73@gmail.com
+
+<p align="center">
+  از بازدید پروفایل من متشکرم 🙏  
+</p>
